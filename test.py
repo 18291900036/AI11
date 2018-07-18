@@ -1,2 +1,2 @@
 print('hello word')
-name
+name=input()
